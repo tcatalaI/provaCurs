@@ -1,0 +1,40 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+    color: #ff6347; /* Change this to any color you prefer */
+}
+
+main {
+    padding: 20px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #2c3e50; /* Stylish color for paragraphs */
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
